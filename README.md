@@ -1,13 +1,10 @@
 ----------------------
-Citation Details
+Citation
 ----------------------
 
 Please cite the following article when using this source code:
 
-  M. Harandi, C. Sanderson, C. Shen and B. Lovell.
-
-  Dictionary Learning and Sparse Coding on Grassmann Manifolds: An Extrinsic Solution.
-
+  M. Harandi, C. Sanderson, C. Shen and B. Lovell. ``Dictionary Learning and Sparse Coding on Grassmann Manifolds: An Extrinsic Solution’’.
   Int. Conference on Computer Vision (ICCV), 2013.
 
 
