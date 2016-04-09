@@ -11,14 +11,14 @@ Please cite the following article when using this source code:
 
 ```
   @InProceedings{Harandi2013ICCV,
-				 author = {Harandi, Mehrtash and Sanderson, Conrad and Shen, Chunhua and Lovell, Brian C.},
-				 title = {Dictionary Learning and Sparse Coding on Grassmann Manifolds: An Extrinsic Solution},
-			   booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
-			   month = {December},
-				 pages={3120-3127},
-				 doi={10.1109/ICCV.2013.387},
-				 ISSN={1550-5499},
-				 year = {2013}
+    author = {Harandi, Mehrtash and Sanderson, Conrad and Shen, Chunhua and Lovell, Brian C.},
+    title = {Dictionary Learning and Sparse Coding on Grassmann Manifolds: An Extrinsic Solution},
+    booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+    month = {December},
+    pages={3120-3127},
+    doi={10.1109/ICCV.2013.387},
+    ISSN={1550-5499},
+    year = {2013}
   }
 ```
 
